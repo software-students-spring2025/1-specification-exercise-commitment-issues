@@ -4,10 +4,10 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Melissa Kelly, https://github.com/melissalkelly
-Apollo Wyndham, https://github.com/a-wyndham1 
-Ava August, https://github.com/aaugust22
-Shamaamah Ahmad, https://github.com/shamaamahh
+- Melissa Kelly, https://github.com/melissalkelly
+- Apollo Wyndham, https://github.com/a-wyndham1 
+- Ava August, https://github.com/aaugust22
+- Shamaamah Ahmad, https://github.com/shamaamahh
 
 ## Stakeholders
 
@@ -44,4 +44,4 @@ As a college student in NYC, I want to have recommendations for local activities
 
 ## Clickable Prototype
 
-[See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.]https://www.figma.com/proto/5TIiOGf1Qb4zNBWmadYUck/Commitment-Issues?node-id=10-3&p=f&t=mrx07A2LdEifO9Q0-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=10%3A3&show-proto-sidebar=1
+https://www.figma.com/proto/5TIiOGf1Qb4zNBWmadYUck/Commitment-Issues?node-id=10-3&p=f&t=mrx07A2LdEifO9Q0-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=10%3A3&show-proto-sidebar=1
