@@ -34,7 +34,13 @@ The vision for The Ultimate Birthday Experience is to provide college students i
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+Activity Diagram for User Story 1: \
+As a college student in NYC, I want to know where I can get birthday freebies so that I don’t miss out on any free birthday goodies.\
+![screenshot](UML1.png)
+
+Activity Diagram for User Story 2: \
+As a college student in NYC, I want to have recommendations for local activities so that I will feel comfortable in a new area.\
+![screenshot](UML2.png)
 
 ## Clickable Prototype
 
