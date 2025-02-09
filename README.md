@@ -44,4 +44,4 @@ As a college student in NYC, I want to have recommendations for local activities
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.]https://www.figma.com/proto/5TIiOGf1Qb4zNBWmadYUck/Commitment-Issues?node-id=10-3&p=f&t=mrx07A2LdEifO9Q0-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=10%3A3&show-proto-sidebar=1
